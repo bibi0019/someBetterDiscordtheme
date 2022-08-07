@@ -1,2 +1,3 @@
 # somethingneedgithubrep
-This is a repository to upload some things need github
+Do you think this is a landing page? Nope!
+add some subdomain to go to the destination like `.../cammom.png`
