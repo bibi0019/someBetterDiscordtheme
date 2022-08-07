@@ -36,11 +36,11 @@
   background-color: var(--close-button-color) !important;
   margin-top: 0px;
 }
-.withFrame-2dL45i .winButtonMinMax-3RsPUg:nth-child(4):after {
+.withFrame-2dL45i .winButtonMinMax-3RsPUg:nth-child(3):after {
   background-color: var(--maximize-button-color) !important;
   margin-top: 0px;
 }
-.withFrame-2dL45i .winButtonMinMax-3RsPUg:nth-child(3)::after {
+.withFrame-2dL45i .winButtonMinMax-3RsPUg:nth-child(4)::after {
   background-color: var(--minimize-button-color) !important;
   margin-top: 0px;
 }
