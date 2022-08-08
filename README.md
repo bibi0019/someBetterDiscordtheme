@@ -1,4 +1,4 @@
 # somethingneedgithubrep
-Do you think this is a landing page? Nope!
+This is the asset link for some personal stuff
 
-just click this link to go to an image [Click Me!](/son.png)
+click this link to go to an image stored on this repository [Click Me!](/son.png)
